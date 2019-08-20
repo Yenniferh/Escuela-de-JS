@@ -6,6 +6,6 @@ Ya conocimos la importancia de hacer nuestro HTML de forma **semántica**. Así 
 
 A continuación te mostraré un código HTML y la idea es que tu lo organices de forma **semántica**, es decir, que uses las etiquetas más adecuadas.
 
-![alt text](../master/Frontend%20Developer/images/Reto1.jpg '1er Reto propuesto')
+![alt text](../images/Reto1.jpg '1er Reto propuesto')
 
-Profesora: ESTEFANY AGUILAR - [teffcode](https://github.com/teffcode)
+Profesora: ESTEFANY AGUILAR - <a href="https://github.com/teffcode" target="_blank">teffcode</a>
